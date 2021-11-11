@@ -1,0 +1,13 @@
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskThree\InMapperWordCountReducer.class
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskTwo\WordCountByFirstCharacterMapper.class
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskFourth\WordCountPartitionerMapper.class
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskFourth\WordCountUsingPartitioner.class
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskOne\WordCountByLengthMapper.class
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskTwo\WordCountByFirstCharacter.class
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskThree\InMapperWordCountMapper.class
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskThree\InMapperWordCount.class
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskOne\WordCountByLength.class
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskOne\WordCountByLengthReducer.class
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskFourth\WordCountPartitioner.class
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskFourth\WordCountPartitionerReducer.class
+edu\rmit\cosc2367\s3819491\WordCountAssignment\TaskTwo\WordCountByFirstCharacterReducer.class
